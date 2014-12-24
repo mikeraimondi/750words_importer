@@ -1,0 +1,1 @@
+An extremely basic tool for importing files from [750words](http://750words.com/) to Markdown with YAML frontmatter. It expects the files to be in a directory named `750words_import`, and it expects a directory `import` to exist for the outputted Markdown files.
